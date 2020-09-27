@@ -8,3 +8,4 @@
  Copyright (C) 2018 Walter White - All Rights Reserved
  Permission to copy and modify is granted under the GNU GPL v3 license
  Usage: ./generate_psx_m3u.sh
+ 
