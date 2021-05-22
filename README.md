@@ -7,7 +7,7 @@
  - Usage : Copy script in working dir and execute ./generate_psx_m3u.sh. 
  
  
-  Permission to copy and modify is granted under the GNU GPL v3 license
+
   
  
  
